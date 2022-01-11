@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+}
+
+#log {
+    width: 200px;
+    height: 400px;
+    overflow-y: scroll;
+    border: thick solid black;
+}
+
+#pcar {
+    height: 75px;
+    position: absolute;
+    top: 340px;
+    left: 250px;
+}
